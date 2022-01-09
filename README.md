@@ -12,3 +12,4 @@ Collect from http://leafsnap.com/dataset/
 Choose 20 species with the most images
 
 ### Training model notebook
+Leaf_20_classes_v4.ipynb
